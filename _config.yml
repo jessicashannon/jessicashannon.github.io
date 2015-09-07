@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            rosie on rails
+title:            Rosie on Rails
 tagline:          'a Jekyll blog'
 description:      'Learning to code, with a side of vintage style.  My name is actually Jessica.'
-url:              http://hyde.getpoole.com
+url:              http://rosieonrails.com
 baseurl:          /
 
 author:
