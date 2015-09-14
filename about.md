@@ -18,6 +18,6 @@ I try not to collect vintage dresses, but they find me wherever I go.
 
 * Hosted by [Github Pages](http://github.com)
 
-* Theme: [Hyde](http://hyde.getpoole.com) (very lightly modified)
+* Theme: [Hyde](http://hyde.getpoole.com)
 
 * Blogging platform: [Jekyll](http://jekyllrb.com)
