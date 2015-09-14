@@ -33,7 +33,7 @@ To my dismay, everything had changed.  I downloaded some plugins but none of the
 
 So it begins ...
 
-The answer is: if you would rather grep for your image file, copy it to your local repo via the command line, and write your blog post in markdown -- programmer blogs are for you.
+The answer is: if you would rather type than use Finder to find an image file, copy it to your local repo via the command line, and write your blog post in markdown -- programmer blogs are for you.
 
 Also, while I wasn't looking, I became a programmer.
 
