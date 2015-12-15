@@ -1,17 +1,18 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
+gems:             [jekyll-paginate, redcarpet]
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title:            Rosie on Rails
 tagline:          'a Jekyll blog'
 description:      'Learning to code, with a side of vintage style.  My name is actually Jessica.'
 url:              http://rosieonrails.com
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'Jessica Wray'
